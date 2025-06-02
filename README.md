@@ -1,4 +1,4 @@
-Contributor: AkilSenthilkumar,Nithin
+Contributor: AkilSenthilkumar,Nithin,aryan,akash
 
 - [@AkilSenthilkumar](https://github.com/AkilSenthilkumar)
 - .[@Nithin]
